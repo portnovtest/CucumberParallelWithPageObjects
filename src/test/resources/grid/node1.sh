@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -Dwebdriver.chrome.driver=chromedriver -Dwebdriver.gecko.driver=geckodriver -jar /Users/phildolganov/IdeaProjects/CucumberParallelWithPageObjects/src/test/resources/grid/selenium-server-standalone-3.141.0.jar -role node -nodeConfig node1.json
